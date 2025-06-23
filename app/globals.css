@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root {
+  --leaf-green: #3A9D23;
+  --deep-maroon: #A52828;
+  --earthy-brown: #A0522D;
+  --cream: #FAF3EB;
+  --leaf-green-dark: #2E8B57;
+  --deep-maroon-dark: #8B0000;
+  --light-brown: #fa8f5c;
+}
+
+.bg-earthy-brown {
+  background-color: var(--earthy-brown);
+}
+
+.bg-cream {
+  background-color: var(--cream);
+}
+
+.bg-light-brown {
+  background-color: var(--light-brown);
+}
